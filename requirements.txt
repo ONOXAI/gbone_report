@@ -130,7 +130,6 @@ opentelemetry-exporter-otlp-proto-grpc==1.35.0
 opentelemetry-proto==1.35.0
 opentelemetry-sdk==1.35.0
 opentelemetry-semantic-conventions==0.56b0
-openvasreporting @ file:///C:/Users/tanner.love/Desktop/openvas/openvasreporting/dist/openvasreporting-0.0.0-py3-none-any.whl#sha256=914720dce23b948adc1b0b3cab15c1cc80287cc78c092929566f5ecaf577d41d
 orjson==3.11.0
 overrides==7.7.0
 packaging==25.0

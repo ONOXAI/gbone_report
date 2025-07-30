@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 pandas>=1.3
 openpyxl>=3.0
-=======
-
->>>>>>> 156cd736305a26387eb1aaf36abc2f98486f3f15
+python >=3.8
